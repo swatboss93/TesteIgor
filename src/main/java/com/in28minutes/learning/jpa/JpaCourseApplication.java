@@ -8,6 +8,6 @@ public class JpaCourseApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Ola igor tudo bem?");
-		SpringApplication.run(JpaCourseApplication.class, args);
+		SpringApplication.run(JpaCourseApplication.classe, args);
 	}
 }
