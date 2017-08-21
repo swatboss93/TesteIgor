@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jpaCourse
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Wallison
+Implementation-Vendor-Id: com.in28minutes.learning.jpa
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/jpa-in-10-st
+ eps/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
